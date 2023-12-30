@@ -1,0 +1,19 @@
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\generate info.exe
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\generate info.deps.json
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\generate info.runtimeconfig.json
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\generate info.dll
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\generate info.pdb
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Radshid\RiderProjects\generate info\generate info\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.csproj.AssemblyReference.cache
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.AssemblyInfoInputs.cache
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.AssemblyInfo.cs
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.csproj.CoreCompileInputs.cache
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.csproj.CopyComplete
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.dll
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\refint\generate info.dll
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.pdb
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\generate info.genruntimeconfig.cache
+C:\Users\Radshid\RiderProjects\generate info\generate info\obj\Debug\net7.0\ref\generate info.dll

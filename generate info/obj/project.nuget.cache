@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLZYRtS45L3hlfPdHezjmaOns1eGapaf9PynxMeuLpkf9LE+VIWplc8as1jsxQGI3ZT+ZltD2lyyLVKebmuTJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Radshid\\RiderProjects\\generate info\\generate info\\generate info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Radshid\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Radshid\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
